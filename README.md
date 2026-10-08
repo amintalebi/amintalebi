@@ -40,6 +40,6 @@ It is still in development and has not been audited.
 - **[Talon.One](https://docs.talon.one/docs/product/applications/manage-campaign-evaluation#create-a-campaign-evaluation-group)** (acquired by Adyen): promotion engine
 - **[Zarban](https://zarban.io/)**: stablecoin protocol, as founding engineer
 - **[Snapp](https://snapp.ir)**: real-time messaging
-- **Aalto University**: SOFIE project
+- **[Aalto University](https://www.aalto.fi/)**: SOFIE project
 
 The details are on [my website](https://amintalebi.com).
