@@ -6,6 +6,12 @@ Backend and AI engineer. I work in Go and Rust on distributed systems and blockc
 
 ## Open source
 
+### [bundler](https://github.com/qubenodeorg/bundler)
+
+`Go` `ERC-4337`
+
+An ERC-4337 bundler in Go.
+
 ### [openvm-poseidon2](https://github.com/amintalebi/openvm-poseidon2)
 
 `Rust` `OpenVM` `Plonky3` `RISC-V`
