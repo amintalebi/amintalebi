@@ -1,6 +1,6 @@
 # Amin Talebi
 
-Backend and AI engineer in Berlin. I work in Go and Rust on distributed systems and blockchain protocols, and these days mostly on zero-knowledge proof systems and AI.
+Backend and AI engineer. I work in Go and Rust on distributed systems and blockchain protocols, and these days mostly on zero-knowledge proof systems and AI.
 
 [Website](https://amintalebi.com) · [LinkedIn](https://linkedin.com/in/amintalebi) · [Email](mailto:talebi242@gmail.com)
 
