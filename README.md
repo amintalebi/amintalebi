@@ -32,6 +32,11 @@ It is still in development and has not been audited.
 
 - **[paxos](https://github.com/amintalebi/paxos)** (Python). An implementation of the Paxos consensus algorithm.
 
+### Hackathons
+
+- **[Jamie AI Agentic AI Hack](https://github.com/amintalebi/jamie-agentic-ai-hack)** (Python). Agentic AI hackathon project.
+- **[Sim to Table: NVIDIA × Nebius](https://github.com/amintalebi/nebius-physical-ai-hackathon)** (Python). Physical AI hackathon for the NVIDIA × Nebius AI Builders Hackathon.
+
 ## Where I've worked
 
 - **[Delivery Hero](https://media-solutions.deliveryhero.com/advertising-solutions/)**: display ad server
