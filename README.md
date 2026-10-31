@@ -47,7 +47,7 @@ It is still in development and has not been audited.
 
 - **[Delivery Hero](https://media-solutions.deliveryhero.com/advertising-solutions/)**: display ad server
 - **[Talon.One](https://docs.talon.one/docs/product/applications/manage-campaign-evaluation#create-a-campaign-evaluation-group)** (acquired by Adyen): promotion engine
-- **[Zarban](https://zarban.io/)**: stablecoin protocol, as founding engineer
+- **[Zarban](https://zarban.io/)**: stablecoin protocol, as co-founder
 - **[Snapp](https://snapp.ir)**: real-time messaging
 - **[Aalto University](https://www.aalto.fi/)**: SOFIE project
 
